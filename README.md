@@ -1,1 +1,1 @@
-# chatbot-meeting-fe-local-
+# chatbot-meetings-fe
